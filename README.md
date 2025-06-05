@@ -10,5 +10,5 @@ Hello!_junseo
 
 ### 크기 조절
 
-#brench
+# brench
 브랜치 확인
